@@ -5,7 +5,8 @@ image.
 
 ## Versions
 
-* 0.12.2, latest
+* 4, 4.1, 4.1.1, latest
+* 0.12.2
 
 ## Assumptions
 
@@ -14,12 +15,12 @@ image.
 
 ## Usage
 
-    FROM ustwo/nodejs:0.12.2
+    FROM ustwo/nodejs:4.1.1
     # Your instructions
 
 ### Full example
 
-    FROM ustwo/nodejs:0.12.2
+    FROM ustwo/nodejs:4.1.1
     MAINTAINER Montgomery Burns <mrburns@ustwo.com>
 
     ENV NODE_ENV=production
