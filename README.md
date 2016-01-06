@@ -5,7 +5,8 @@ image.
 
 ## Versions
 
-* 4, 4.1, 4.1.1, latest
+* 4, 4.2, latest
+* 4.1, 4.1.1
 * 0.12.2
 
 ## Assumptions
@@ -15,7 +16,7 @@ image.
 
 ## Usage
 
-    FROM ustwo/nodejs:4.1.1
+    FROM ustwo/nodejs:4.2
     # Your instructions
 
 ### Full example
